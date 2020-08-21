@@ -13,7 +13,6 @@ export interface Teacher {
     name: string;
     subject: string;
     whatsapp: string;
-
 }
 
 interface teacherItemProps {

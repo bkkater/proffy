@@ -23,3 +23,13 @@
 /web/npm-debug.log*
 /web/yarn-debug.log*
 /web/yarn-error.log*
+
+### Database ###
+*.accdb
+*.db
+*.dbf
+*.mdb
+*.pdb
+*.sqlite3
+
+.env
